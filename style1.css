@@ -1,0 +1,49 @@
+
+.back
+ {
+    background-color:#1BA597;
+    display: block;
+    height: auto;
+    width: auto;
+ }
+ .backup
+ {   
+    background-color:#00C1F2;
+    display: block;
+    text-align: center;
+    height: 230px;
+ }
+.logo {
+    display:inline-block; 
+}
+.Phone {
+    display: inline-block;
+    font-size: 4em;
+    float: right;
+    margin-right: 8.5%;
+}
+.stroke {
+    display: block;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-right: 6%;
+    
+}
+.middle{
+    text-align: center;
+    color:black;
+    vertical-align: middle;
+}
+#Main {
+    text-align: center;
+    width: 18%;
+    height: 70px;
+    background-color:#0026ff;
+    display: inline-block;
+    margin-left: 2%;
+     border-radius: 15px;
+}
+#Main:hover {
+transition: all 0.3s;
+background-color: #001692;
+} 
